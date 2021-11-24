@@ -1,0 +1,32 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ],
+    [
+      "Social Science",
+      "Game Theory"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "da32551f-181b-fd93-6628-39dbe0972ea8"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Mathematical Statistics",
+  "course_description": "This course provides students with decision theory, estimation, confidence intervals, and hypothesis testing. It introduces large sample theory, asymptotic efficiency of estimates, exponential families, and sequential analysis.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.655",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
